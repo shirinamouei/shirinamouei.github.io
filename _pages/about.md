@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student researching the intersection of **human-centered AI** and **health**, with a particular focus on patient experience and safety in psychiatry. Applying AI/ML and HCI techniques, I investigate how technology can be leveraged to understand and improve long term health and care outcomes. My sources range from large-scale patient-generated data in online communities to insights drawn from multimodal human-AI interaction in personal informatics systems. Together, they help piece together the story of human well-being within the broader context of systemic and infrastructural challenges in healthcare.
+I am a PhD student researching the intersection of **human-centered AI** and **health**, with a particular focus on patient experience and safety in psychiatry. Applying **AI/ML and HCI methods**, I investigate how technology can be leveraged to understand and improve long term health and care outcomes. My sources range from large-scale patient-generated data in online communities to insights drawn from multimodal human-AI interaction in personal informatics systems. Together, they help piece together the story of human well-being within the broader context of systemic and infrastructural challenges in healthcare.
 
 **Mentors:** Dr. Anind Dey, Dr. Wanda Pratt, Dr. Elizabeth Murnane, Dr. Mark Horowitz, Dr. Sean Munson, Dr. Lucy Lu Wang
 
