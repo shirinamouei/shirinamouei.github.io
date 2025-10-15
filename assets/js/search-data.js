@@ -385,8 +385,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-poster-presentaton-at-the-responsible-ai-systems-and-experiences-raise-xamazon-exposition",
-          title: 'Poster presentaton at the Responsible AI Systems and Experiences (RAISE)xAmazon Exposition',
+            },},{id: "news-poster-presentation-at-the-responsible-ai-systems-and-experiences-raise-xamazon-exposition",
+          title: 'Poster presentation at the Responsible AI Systems and Experiences (RAISE)xAmazon Exposition',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
