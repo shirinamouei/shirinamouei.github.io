@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+  },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -392,8 +385,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-poster-presentaton-at-the-responsible-ai-systems-and-experiences-raise-xamazon-exposition",
+          title: 'Poster presentaton at the Responsible AI Systems and Experiences (RAISE)xAmazon Exposition',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
