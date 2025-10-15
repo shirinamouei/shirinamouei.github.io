@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster presentaton at the Responsible AI Systems and Experiences (RAISE)xAmazon Exposition
+Poster presentation at the Responsible AI Systems and Experiences (RAISE)xAmazon Exposition
