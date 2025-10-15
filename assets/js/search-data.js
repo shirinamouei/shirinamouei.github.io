@@ -377,16 +377,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-poster-presentation-at-the-responsible-ai-systems-and-experiences-raise-xamazon-exposition",
           title: 'Poster presentation at the Responsible AI Systems and Experiences (RAISE)xAmazon Exposition',
+          description: "",
+          section: "News",},{id: "news-joined-the-committee-for-the-electrical-amp-amp-computer-engineering-future-faculty-preparation-program",
+          title: 'Joined the committee for the Electrical &amp;amp;amp; Computer Engineering Future Faculty Preparation Program...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
