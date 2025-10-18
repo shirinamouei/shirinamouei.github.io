@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the committee for the Electrical & Computer Engineering Future Faculty Preparation Program
+Joined the steering committee for the Electrical & Computer Engineering Future Faculty Preparation Program
