@@ -26,7 +26,12 @@ latest_posts:
 
 I am a PhD student researching the intersection of **human-centered AI** and **health**, with a particular focus on patient experience and safety in medicine. Applying **AI/ML and HCI methods**, I investigate how technology can be leveraged to understand and improve long term health and care outcomes. 
 
-I study the often-overlooked adverse and withdrawal effects of psychiatric medications (e.g., antidepressants). My current work focuses on phenotyping tapering and protracted withdrawal syndrome experiences. I draw on large-scale patient-reported data and insights from multimodal human-AI interaction in personal informatics systems. Together, they help piece together the story of human well-being within the broader context of systemic and infrastructural challenges in healthcare. 
+My current work focuses on the adverse and withdrawal effects of psychiatric medications, specifically phenotyping tapering and protracted withdrawal experiences. I draw on large-scale patient-reported data and insights from multimodal human-AI interaction in personal informatics systems. Together, they help piece together the story of human well-being within the broader context of systemic and infrastructural challenges in healthcare. 
+
+Some of my current research questions include:
+  NLP: How can we model and summarize health knowledge embedded in everyday language?
+  AI/ML: How can we predict withdrawal experiences based on medication and patient profiles?
+  HCI + AI/ML: How can affective computing mitigate potentially negative impacts of health monitoring?
 
 **Mentors:** Dr. Anind Dey, Dr. Wanda Pratt, Dr. Elizabeth Murnane, Dr. Mark Horowitz, Dr. Sean Munson, Dr. Lucy Lu Wang
 
