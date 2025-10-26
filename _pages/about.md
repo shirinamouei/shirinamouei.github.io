@@ -30,9 +30,9 @@ My current work focuses on the adverse and withdrawal effects of psychiatric med
 
 Some of my current research questions include:
 
-  *NLP: How can we model and summarize health knowledge embedded in everyday language?
-  *AI/ML: How can we predict withdrawal experiences based on medication and patient profiles?
-  *HCI + AI/ML: How can affective computing mitigate potentially negative impacts of health monitoring?
+  * NLP: How can we model and summarize health knowledge embedded in everyday language?
+  * AI/ML: How can we predict withdrawal experiences based on medication and patient profiles?
+  * HCI + AI/ML: How can affective computing mitigate potentially negative impacts of health monitoring?
 
 **Mentors:** Dr. Anind Dey, Dr. Wanda Pratt, Dr. Elizabeth Murnane, Dr. Mark Horowitz, Dr. Sean Munson, Dr. Lucy Lu Wang
 
