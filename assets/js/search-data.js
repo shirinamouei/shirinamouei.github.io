@@ -381,7 +381,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_archived_example/";
             },},{id: "news-poster-presentation-at-the-responsible-ai-systems-and-experiences-raise-xamazon-exposition",
           title: 'Poster presentation at the Responsible AI Systems and Experiences (RAISE)xAmazon Exposition',
           description: "",
