@@ -1,12 +1,13 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Entity Extraction for Clinical Adverse Events
+description: Investigating patient safety with pre-trained models
+img: assets/img/threads.jpg
 importance: 1
 category: work
-related_publications: true
 ---
+
+This project explores how AI can improve patient safety and experience.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
