@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Entity Extraction for Clinical Adverse Events
-description: Investigating patient safety with pre-trained models
+description: patient safety, pre-trained models, benchmarking
 img: assets/img/threads.jpg
 importance: 1
 category: work
