@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student researching the intersection of **human-centered AI** and **medicine**, with a particular focus on patient experience and safety. Applying **AI/ML and HCI methods**, I investigate how technology can be leveraged to understand and improve long term health and care outcomes. 
+I am a PhD student researching the intersection of **human-centered AI** and **medicine**, with a particular focus on patient experience and safety. Applying **AI/ML and HCI methods**, I investigate how technology can be leveraged to understand and improve long term health and care outcomes.
 
-My current focus is on the adverse and withdrawal effects of psychiatric medications. I draw on large-scale patient-reported data and insights from multimodal human-AI interaction in personal informatics systems. Together, they help piece together the story of human well-being within the broader context of systemic and infrastructural challenges in healthcare. 
+My current focus is on the adverse and withdrawal effects of psychiatric medications. I draw on large-scale patient-reported data and insights from multimodal human-AI interaction in personal informatics systems. Together, they help piece together the story of human well-being within the broader context of systemic and infrastructural challenges in healthcare.
 
 Some of my current research questions include:
 
