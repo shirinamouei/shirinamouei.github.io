@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received Computing Research Association Widening Participation (CRA-WP) Workshop Schoalrship
+Received Computing Research Association Widening Participation (CRA-WP) Workshop Scholarship
